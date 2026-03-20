@@ -8,7 +8,7 @@ The assignment is about designing and developing a game called `Poool`.
 
 ### Game Description 
 
-The game consists in a bidimensional board with a number of small balls and two bigger balls, representing human player ball and a bot (i.e. computer controlled) ball.  
+The game consists in a bidimensional board with a number of small balls and two bigger balls, representing a human player ball and a bot (i.e. computer controlled) ball.  
 
 <img src="board.png">
 
