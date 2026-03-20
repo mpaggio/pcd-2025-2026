@@ -37,9 +37,9 @@ The concurrent programs should be designed according the principles studied duri
 - for every other aspect not specified, students are free to choose the best approach for them.
 
 Beside the source code, the assignment should contain a brief report, including:
-- a brief analsysis of the problem, focusing in particular aspects that are relevant from concurrent point of view
+- a brief analsysis of the problem, focusing in particular those aspects that are relevant from a concurrent point of view
 - a brief description of the adopted design, the architecture (structure) and the behaviour
-  - for the behaviour, one or multiple Petri Nets must be used,choosing the proper level of abstraction
+  - for the behaviour, one or multiple Petri Nets can be used, choosing the proper level of abstraction
 - Performance tests to check and discuss: 
   - how much the concurrent version is better than a sequential one
   - how much the program is effective in exploiting available cores
